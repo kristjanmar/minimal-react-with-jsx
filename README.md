@@ -1,7 +1,7 @@
 # The bare minimum to build a Hello World app in React with JSX.
 
 First, make sure you have node and git installed on your computer
-> Node: https://nodejs.org/en/
+> Node: https://nodejs.org/en/  
 > Git: https://git-scm.com/downloads
 
 1. Create a folder on your computer, such as /projects/
